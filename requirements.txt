@@ -1,5 +1,6 @@
 fastapi
 pydantic
+uvicorn
 whisper
 opencv-python
 moviepy
