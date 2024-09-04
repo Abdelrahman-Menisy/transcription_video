@@ -1,4 +1,7 @@
 fastapi
-uvicorn
-rembg
-Pillow
+pydantic
+whisper
+opencv-python
+moviepy
+tqdm
+python-multipart
